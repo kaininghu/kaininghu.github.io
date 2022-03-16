@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Liping Song | Dr. Hu Kaining</title>
+    <link>https://kaininghu.github.io/authors/liping-song/</link>
+      <atom:link href="https://kaininghu.github.io/authors/liping-song/index.xml" rel="self" type="application/rss+xml" />
+    <description>Liping Song</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kaininghu.github.io/media/icon_hu6c16e5df429f12029c289f16de375ab1_246478_512x512_fill_lanczos_center_3.png</url>
+      <title>Liping Song</title>
+      <link>https://kaininghu.github.io/authors/liping-song/</link>
+    </image>
+    
+    <item>
+      <title>Mitochondrial genome and transcriptome analysis of five alloplasmic male-sterile lines in Brassica juncea</title>
+      <link>https://kaininghu.github.io/publication/rn-1714/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://kaininghu.github.io/publication/rn-1714/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

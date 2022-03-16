@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tiantian Tian | Dr. Hu Kaining</title>
+    <link>https://kaininghu.github.io/authors/tiantian-tian/</link>
+      <atom:link href="https://kaininghu.github.io/authors/tiantian-tian/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tiantian Tian</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kaininghu.github.io/media/icon_hu6c16e5df429f12029c289f16de375ab1_246478_512x512_fill_lanczos_center_3.png</url>
+      <title>Tiantian Tian</title>
+      <link>https://kaininghu.github.io/authors/tiantian-tian/</link>
+    </image>
+    
+    <item>
+      <title>Transcriptomic analysis of seed coats in yellow-seeded Brassica napus reveals novel genes that influence proanthocyanidin biosynthesis</title>
+      <link>https://kaininghu.github.io/publication/rn-1713/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://kaininghu.github.io/publication/rn-1713/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lei Yan | Dr. Hu Kaining</title>
+    <link>https://kaininghu.github.io/authors/lei-yan/</link>
+      <atom:link href="https://kaininghu.github.io/authors/lei-yan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lei Yan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kaininghu.github.io/media/icon_hu6c16e5df429f12029c289f16de375ab1_246478_512x512_fill_lanczos_center_3.png</url>
+      <title>Lei Yan</title>
+      <link>https://kaininghu.github.io/authors/lei-yan/</link>
+    </image>
+    
+    <item>
+      <title>Genome-wide association study dissecting the genetic architecture underlying the branch angle trait in rapeseed (Brassica napus L.)</title>
+      <link>https://kaininghu.github.io/publication/rn-1708/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://kaininghu.github.io/publication/rn-1708/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genome-wide association study provides insight into the genetic control of plant height in rapeseed (Brassica napus L.)</title>
+      <link>https://kaininghu.github.io/publication/rn-1706/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://kaininghu.github.io/publication/rn-1706/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shuanshi Xian | Dr. Hu Kaining</title>
+    <link>https://kaininghu.github.io/authors/shuanshi-xian/</link>
+      <atom:link href="https://kaininghu.github.io/authors/shuanshi-xian/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shuanshi Xian</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kaininghu.github.io/media/icon_hu6c16e5df429f12029c289f16de375ab1_246478_512x512_fill_lanczos_center_3.png</url>
+      <title>Shuanshi Xian</title>
+      <link>https://kaininghu.github.io/authors/shuanshi-xian/</link>
+    </image>
+    
+    <item>
+      <title>Dynamic transcriptome analysis reveals AP2/ERF transcription factors responsible for cold stress in rapeseed (Brassica napus L.)</title>
+      <link>https://kaininghu.github.io/publication/rn-1704/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://kaininghu.github.io/publication/rn-1704/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

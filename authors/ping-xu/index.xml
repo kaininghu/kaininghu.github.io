@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ping Xu | Dr. Hu Kaining</title>
+    <link>https://kaininghu.github.io/authors/ping-xu/</link>
+      <atom:link href="https://kaininghu.github.io/authors/ping-xu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ping Xu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kaininghu.github.io/media/icon_hu6c16e5df429f12029c289f16de375ab1_246478_512x512_fill_lanczos_center_3.png</url>
+      <title>Ping Xu</title>
+      <link>https://kaininghu.github.io/authors/ping-xu/</link>
+    </image>
+    
+    <item>
+      <title>Transcriptome profiling reveals cytokinin promoted callus regeneration in Brassica juncea</title>
+      <link>https://kaininghu.github.io/publication/rn-1717/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://kaininghu.github.io/publication/rn-1717/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trilocular phenotype in Brassica juncea L. resulted from interruption of CLAVATA1 gene homologue (BjMc1) transcription</title>
+      <link>https://kaininghu.github.io/publication/rn-1712/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://kaininghu.github.io/publication/rn-1712/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

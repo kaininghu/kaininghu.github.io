@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chenjian Zhuo | Dr. Hu Kaining</title>
+    <link>https://kaininghu.github.io/authors/chenjian-zhuo/</link>
+      <atom:link href="https://kaininghu.github.io/authors/chenjian-zhuo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chenjian Zhuo</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kaininghu.github.io/media/icon_hu6c16e5df429f12029c289f16de375ab1_246478_512x512_fill_lanczos_center_3.png</url>
+      <title>Chenjian Zhuo</title>
+      <link>https://kaininghu.github.io/authors/chenjian-zhuo/</link>
+    </image>
+    
+    <item>
+      <title>QTL mapping and diurnal transcriptome analysis identify candidate genes regulating Brassica napus flowering time</title>
+      <link>https://kaininghu.github.io/publication/rn-1720/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://kaininghu.github.io/publication/rn-1720/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

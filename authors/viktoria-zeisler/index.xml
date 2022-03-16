@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Viktoria Zeisler | Dr. Hu Kaining</title>
+    <link>https://kaininghu.github.io/authors/viktoria-zeisler/</link>
+      <atom:link href="https://kaininghu.github.io/authors/viktoria-zeisler/index.xml" rel="self" type="application/rss+xml" />
+    <description>Viktoria Zeisler</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kaininghu.github.io/media/icon_hu6c16e5df429f12029c289f16de375ab1_246478_512x512_fill_lanczos_center_3.png</url>
+      <title>Viktoria Zeisler</title>
+      <link>https://kaininghu.github.io/authors/viktoria-zeisler/</link>
+    </image>
+    
+    <item>
+      <title>Overexpression of the novel Arabidopsis gene At5g02890 alters inflorescence stem wax composition and affects phytohormone homeostasis</title>
+      <link>https://kaininghu.github.io/publication/rn-1709/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://kaininghu.github.io/publication/rn-1709/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xuekun Zhang | Dr. Hu Kaining</title>
+    <link>https://kaininghu.github.io/authors/xuekun-zhang/</link>
+      <atom:link href="https://kaininghu.github.io/authors/xuekun-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xuekun Zhang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kaininghu.github.io/media/icon_hu6c16e5df429f12029c289f16de375ab1_246478_512x512_fill_lanczos_center_3.png</url>
+      <title>Xuekun Zhang</title>
+      <link>https://kaininghu.github.io/authors/xuekun-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Comparative analysis of the Brassica napus root and leaf transcript profiling in response to drought stress</title>
+      <link>https://kaininghu.github.io/publication/rn-1702/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://kaininghu.github.io/publication/rn-1702/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
